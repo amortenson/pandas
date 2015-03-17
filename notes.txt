@@ -1,0 +1,23 @@
+https://vimeo.com/59324550
+
+-Easier to load in data from csv, perform basic operations on data sets
+-parsing strings into dates and time, sorting out chars like '$' also helpful
+-Handling NaN: can sort it out, replace with a value, and mean and sum ops ignore
+
+
+-Creates nice charts for you!!!!!
+-Describe gives you useful stats if you can't be bothered to do it yourself: mean, median, std deviation, percentiles, min, max, count
+
+
+-Can do SQL-type stuff for you; if you really have a grudge against SQL, you can use a lighter database with pandas
+     *sorting data by a certain coloumn
+     *transforming data columns, taking the right bits of data, all that fun stuff.
+
+-Hierarchical indexing:
+     *not sure what this is; look into it
+     *"rotating": swapping cols and rows easily
+     
+-Merging different columns into one object, i.e. name, age, income --> a dict
+-This makes it easier to sort out different things by a characteristic (teams with more than 100 wins in a season and everything about them, highly rated movies, etc.)
+
+
